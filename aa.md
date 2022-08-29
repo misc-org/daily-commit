@@ -57,3 +57,34 @@
 ＿＿/＼＿＿＿＿＿＿＿＿
 TS 意味わっかんねえよ!!
 ```
+
+
+最後の問題の数式が解けない...
+
+$$
+  \begin{cases}
+    S'\cos\theta - N'\sin\theta &= ml\omega^2\cos\theta \\ \\
+    S'\sin\theta + N'\cos\theta &= mg
+  \end{cases}
+$$
+
+この式で,
+
+$$
+  \begin{cases}
+    S' &= mg\sin\theta + ml\omega^2\cos^2\theta \\ \\
+    N' &= mg\cos\theta - ml\omega^2\sin\theta\cos\theta
+  \end{cases}
+$$
+
+になるらしいんだけれど...  過程が分からん...  
+両辺に, $\tan\theta$ を掛けて,
+
+$$
+  \begin{cases}
+    S'\cos\theta + N'\sin\theta &= \dfrac{mg}{\tan\theta} \\ \\
+    S'\cos\theta - N'\sin\theta &= ml\omega^2\cos\theta
+  \end{cases}
+$$
+連立できたけど, あれ...計算地獄...？  
+おやすみなさい
