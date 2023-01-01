@@ -1,11 +1,11 @@
-`if` `else if` `else` ってあるじゃん。　　
-Pythonは `else if` => `elif`になるじゃん。　　
+`if` `else if` `else` ってあるじゃん。  
+Pythonは `else if` => `elif`になるじゃん。  
 jsとかcでは
 ```js
 if (true) printf("Hello, World!");
 ```
 って`{}`を省略できるんだけど、ここで一つ  
-if文,else文はあっても**else if文は存在しない**んだよね
+if文,else文はあっても**else if文は存在しない**んだよね  
 つまり
 ```js
 if(条件1) {
@@ -33,4 +33,4 @@ if (条件1) {
 
 薄々思ってたんだけど、[ncss](https://github.com/SatooRu65536/ncss)
 を作る上で合ってたと分かった  
-なんか面白くね
+なんか面白くね(語彙力)
