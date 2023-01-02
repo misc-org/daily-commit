@@ -71,3 +71,6 @@ content以外の案思いつかんけど。
 HTMLの方がやりやすい？
 
 => つくったよ [ncss](https://github.com/SatooRu65536/ncss)
+
+
+脳) import ProcessPoolExecutor from concurrent.futures
