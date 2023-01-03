@@ -2,7 +2,7 @@
 Pythonは `else if` => `elif`になるじゃん。  
 jsとかcでは
 ```js
-if (true) printf("Hello, World!");
+if (true) printf("Hellow, World!");
 ```
 って`{}`を省略できるんだけど、ここで一つ  
 if文,else文はあっても**else if文は存在しない**んだよね  
