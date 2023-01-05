@@ -87,6 +87,7 @@ HTMLの方がやりやすい？
 これ以上多くするなら, オーガナイゼーション作るのも良いんじゃないですかね
 まあ少人数ですけど (悲しい)
 => チーム開発やめたからなぁ
+=> 結局つくった
 
 脳) import ProcessPoolExecutor from concurrent.futures
 
