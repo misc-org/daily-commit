@@ -74,10 +74,18 @@ HTMLの方がやりやすい？
 => スニペットの拡張機能もつくったよ
     [リポジトリ](https://github.com/SatooRu65536/ncss-snippets)
     [マーケットプレース](https://marketplace.visualstudio.com/items?itemName=SatooRu65536.ncss-snippets)
+=> ヘルパーもつくったよ
+    [リポジトリ](https://github.com/SatooRu65536/ncss-support)
+    [マーケットプレース](https://marketplace.visualstudio.com/items?itemName=SatooRu65536.ncss-support)
+=> フォーマッターもつくったよ(こぴぺ)
+    [リポジトリ](https://github.com/SatooRu65536/ncss-formatter)
+    [マーケットプレース](https://marketplace.visualstudio.com/items?itemName=SatooRu65536.ncss-formatter)
+
 
 結構 NCSS 関係のリポジトリが多くなってきましたね...  すごい...
 これ以上多くするなら, オーガナイゼーション作るのも良いんじゃないですかね
 まあ少人数ですけど (悲しい)
+=> チーム開発やめたからなぁ
 
 脳) import ProcessPoolExecutor from concurrent.futures
 
