@@ -1,0 +1,29 @@
+ - how to apply enabling proxy server setting -
+
+
+sudo nano /etc/apt/apt.conf
+
++++
+  Acquire::http::proxy "http://192.168.150.219:8080/";
+  Acquire::https::proxy "https://192.168.150.219:8080/";
+  Acquire::ftp::proxy "ftp://192.168.150.219:8080/";
+  Acquire::socks::proxy "socks://192.168.150.219:8080/";
++++
+
+
+sudo nano /etc/environment
+
++++
+  http_proxy=http://192.168.150.219:8080/
+  https_proxy=http://192.168.150.219:8080/
+  ftp_proxy=http://192.168.150.219:8080/
++++
+
+
+sudo nano [chiurda]/.bashrc
+
++++
+  export http_proxy=http://192.168.150.219:8080/
+  export https_proxy=http://192.168.150.219:8080/
+  export ftp_proxy=http://192.168.150.219:8080/
++++
