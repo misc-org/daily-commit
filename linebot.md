@@ -1,1 +1,0 @@
-# LINE Message API からコミットできるとか
