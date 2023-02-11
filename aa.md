@@ -264,3 +264,8 @@ getRandomFunnyWord(); // => "パプリカのレプリカ"
 [.svg.png...?](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png)
 
 働いた
+
+**大きな夢があるって凄くいいな**  
+ってある人の動画を見て思った。
+自分の夢を熱く語りつつ、人をわくわくさせるってほんと凄い。  
+行きたい会社はあるが、やりたい目標もしっかり見つけよう
