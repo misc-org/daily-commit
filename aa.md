@@ -297,4 +297,4 @@ getRandomFunnyWord(); // => "パプリカのレプリカ"
 確かに技術記事を Qiita とか Zenn に書きたい！  
 課題研究で使ってる Cloudflare Workers + Cloudflare D1 + Hono + tRPC の組み合わせの記事が少ないから時間があったら書いてみたーい...  
   
-なんか楽しくなってきた
+なんか楽しくなってきちゃった
