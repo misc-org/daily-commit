@@ -298,3 +298,5 @@ getRandomFunnyWord(); // => "パプリカのレプリカ"
 課題研究で使ってる Cloudflare Workers + Cloudflare D1 + Hono + tRPC の組み合わせの記事が少ないから時間があったら書いてみたーい...  
   
 なんか楽しくなってきちゃった！！！
+
+φ(..)
