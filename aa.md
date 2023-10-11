@@ -301,4 +301,5 @@ getRandomFunnyWord(); // => "パプリカのレプリカ"
 
 φ(..)
 
-完
+完  
+$\ce{CO2}$
