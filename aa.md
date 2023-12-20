@@ -305,4 +305,5 @@ getRandomFunnyWord(); // => "パプリカのレプリカ"
 $\ce{H2O2}$  
 なるほど
 
-$\arg$!
+$\arg$!  
+うおおお！
